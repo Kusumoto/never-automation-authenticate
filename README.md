@@ -15,6 +15,9 @@ The Simple Automation Login LINE Account on Never OAuth Service
 - Include file config.php and functions.php in your php file
 - Use function Authenticate() for execute Never Authenticate
 
+### Spacial Thanks
+- simple_html_dom library
+- 
 ### License
 Apache License
 
