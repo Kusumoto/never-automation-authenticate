@@ -9,6 +9,12 @@ The Simple Automation Login LINE Account on Never OAuth Service
 - LINE TV
 - LINE Sticker Shop
 
+### How to use
+- Edit Channel ID Parameter in config.php
+- Edit Callback URL Parameter in config.php
+- Include file config.php and functions.php in your php file
+- Use function Authenticate() for execute Never Authenticate
+
 ### License
 Apache License
 
