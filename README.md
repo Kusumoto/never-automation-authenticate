@@ -16,7 +16,7 @@ The Simple Automation Login LINE Account on Never OAuth Service
 - Use function Authenticate() for execute Never Authenticate
 
 ### Example
-(http://lab.kusumotolab.com/project_test/linetvgetlink/)
+http://lab.kusumotolab.com/project_test/linetvgetlink/
 
 ### Spacial Thanks
 simple_html_dom library
